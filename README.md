@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/hello-world-docker-action@v1
+uses: adityacprtm/hello-world-docker-action@v1
 with:
 toGreet: 'Aditya the greatest'
